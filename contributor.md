@@ -6,3 +6,4 @@
 5. [Anurag El Dorado](https://github.com/aedorado) : Information Technology Undergrad at IIIT Allahabad, IoT Lover : @aedorado
 6. [Chanchana Sornsoontorn](https://github.com/off99555) : CS Undergrad at Burapha University in Thailand, Machine Learning Practitioner, : @off99555
 7. [Peter V](https://github.com/magicp) : Just some developer scrub : @magicp
+8. [Mayank Tyagi](https://github.com/maayanktyagi) : CS Undergrad at USICT Delhi,Data Science and Machine Learning Enthusiast : @maayanktyagi
